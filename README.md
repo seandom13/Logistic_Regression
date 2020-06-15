@@ -4,6 +4,7 @@ a particular internet user clicked on an advertisement. Created a logistic regre
 model that will predict whether or not they will click on an ad based off features of that
 user. 
 This data set contains the following features:
+
  -'Daily Time Spent on Site': consumer time on site in minutes
  -'Age': cutomer age in years
  -'Area Income': Avg. Income of geographical area of consumer
