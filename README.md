@@ -27,3 +27,5 @@ This data set contains the following features:
   
 Python is the only languages used and the python libraries used are pandas, numpy, matplotlib, 
 seaborn, and scikitlearn. 
+
+https://en.wikipedia.org/wiki/Logistic_regression#:~:text=Logistic%20regression%20is%20a%20statistical,a%20form%20of%20binary%20regression).
