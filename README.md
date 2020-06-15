@@ -8,11 +8,12 @@ This data set contains the following features:
  -'Age': cutomer age in years
  -'Area Income': Avg. Income of geographical area of consumer
  -'Daily Internet Usage': Avg. minutes a day consumer is on the internet
-  -'Ad Topic Line': Headline of the advertisement
+ -'Ad Topic Line': Headline of the advertisement
  -'City': City of consumer
  -'Male': Whether or not consumer was male
  -'Country': Country of consumer
  -'Timestamp': Time at which consumer clicked on Ad or closed window
  -'Clicked on Ad': 0 or 1 indicated clicking on Ad
+  
 Python is the only languages used and the python libraries used are pandas, numpy, matplotlib, 
 seaborn, and scikitlearn. 
